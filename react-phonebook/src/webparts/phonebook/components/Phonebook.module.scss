@@ -1,0 +1,44 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+.phonebook {
+  .grid {
+    @include ms-Grid;
+  }
+  .row {
+    @include ms-Grid-row;
+  }
+  .col{
+    @include ms-Grid-col;
+  }
+
+  .col4 {
+    @include ms-lg4;
+  }
+
+  .col8 {
+    @include ms-lg8;
+  }
+
+  .ms-sm6 {
+    @include ms-sm6;
+  }
+  .ms-md4 {
+    @include ms-md4;
+  }
+  .ms-md8{
+    @include ms-md8;
+  }
+  .ms-lg2 {
+    @include ms-lg2;
+  }
+  .ms-lg10 {
+    @include ms-lg10;
+  }
+
+  .underlinedSearchBox {
+    border-style: solid;
+    border-color: rgb(166, 166, 166);
+    border-image: initial;
+    border-width: 0px 0px 1px;
+  }
+}

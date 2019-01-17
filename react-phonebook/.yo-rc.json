@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.7.1",
+    "libraryName": "react-phonebook",
+    "libraryId": "43f7f1c9-5529-4206-873f-77bc828b0167",
+    "environment": "onprem",
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "componentType": "webpart"
+  }
+}

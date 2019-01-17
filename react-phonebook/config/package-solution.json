@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-phonebook-client-side-solution",
+    "id": "43f7f1c9-5529-4206-873f-77bc828b0167",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/react-phonebook.sppkg"
+  }
+}
