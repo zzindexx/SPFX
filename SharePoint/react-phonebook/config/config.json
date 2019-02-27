@@ -1,0 +1,48 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/phonebook/PhonebookWebPart.js",
+      "manifest": "./src/webparts/phonebook/PhonebookWebPart.manifest.json",
+      "outputPath": "./dist/phonebook-web-part.js"
+    }
+  ],
+  "externals": {
+    "sp-init": {
+      "path": "https://extranet.kidani.club/_layouts/15/init.js",
+      "globalName": "$_global_init"
+    },
+    "microsoft-ajax": {
+      "path": "https://extranet.kidani.club/_layouts/15/MicrosoftAjax.js",
+      "globalName": "Sys",
+      "globalDependencies": [
+        "sp-init"
+      ]
+    },
+    "sp-runtime": {
+      "path": "https://extranet.kidani.club/_layouts/15/SP.Runtime.js",
+      "globalName": "SP",
+      "globalDependencies": [
+        "microsoft-ajax"
+      ]
+    },
+    "sharepoint": {
+      "path": "https://extranet.kidani.club/_layouts/15/SP.js",
+      "globalName": "SP",
+      "globalDependencies": [
+        "sp-runtime"
+      ]
+    },
+    "sp-taxonomy": {
+      "path": "https://extranet.kidani.club/_layouts/15/SP.taxonomy.js",
+      "globalName": "SP",
+      "globalDependencies": [
+        "sharepoint"
+      ]
+    }
+  },
+  "localizedResources": {
+    "PhonebookWebPartStrings": "webparts/phonebook/loc/{locale}.js",
+    "PropertyControlStrings": "../node_modules/@pnp/spfx-property-controls/lib/loc/{locale}.js",
+    "ControlStrings": "../node_modules/@pnp/spfx-controls-react/lib/loc/{locale}.js"
+  }
+}
