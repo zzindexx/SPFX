@@ -1,6 +1,6 @@
 ## Phonebook with ogranizational structure
 This webpart allows you to create a simple phonebook for your organization with only one webpart.
-![overview](/assets/overview.png)
+![overview](https://github.com/zzindexx/SPFX/blob/master/SharePoint/react-phonebook/assets/overview.png)
 
 ### Prerequisites
 This webpart expects that managed metadata service and search service applications are created in the farm.
