@@ -6,6 +6,7 @@ This webpart allows you to create a simple phonebook for your organization with 
 This webpart expects that managed metadata service and search service applications are created in the farm.
 Also some additional configuration required:
 1. Special termset, that consists of reused terms from Department termset and represents organizational structure
+![termset](https://github.com/zzindexx/SPFX/blob/master/SharePoint/react-phonebook/assets/termset.png)
 2. Configure managed properties for search
     1. Make "PrefferedName" managed property searchable
         ```powershell
