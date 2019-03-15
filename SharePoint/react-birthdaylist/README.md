@@ -1,5 +1,5 @@
 ## Birthday List
-This webpart allows you to show a list of birthdays
+This webpart allows you to show a list of birthdays for current day, week or month.
 
 ![overview](https://github.com/zzindexx/SPFX/blob/master/SharePoint/react-birthdaylist/assets/overview.png)
 
