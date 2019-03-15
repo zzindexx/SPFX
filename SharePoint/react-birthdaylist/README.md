@@ -1,5 +1,6 @@
 ## Birthday List
 This webpart allows you to show a list of birthdays
+
 ![overview](https://github.com/zzindexx/SPFX/blob/master/SharePoint/react-birthdaylist/assets/overview.png)
 
 ### Prerequisites
