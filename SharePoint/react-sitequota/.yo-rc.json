@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem",
+    "version": "1.7.1",
+    "libraryName": "react-sitequota",
+    "libraryId": "ec62b6d7-cb68-4d97-b769-f8b0215f7f9f",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

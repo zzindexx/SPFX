@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-sitequota-client-side-solution",
+    "id": "ec62b6d7-cb68-4d97-b769-f8b0215f7f9f",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/react-sitequota.sppkg"
+  }
+}

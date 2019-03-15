@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/siteQuota/SiteQuotaWebPart.js",
+      "manifest": "./src/webparts/siteQuota/SiteQuotaWebPart.manifest.json",
+      "outputPath": "./dist/site-quota-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "SiteQuotaWebPartStrings": "webparts/siteQuota/loc/{locale}.js"
+  }
+}

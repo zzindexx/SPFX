@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/birthdayList/BirthdayListWebPart.js",
+      "manifest": "./src/webparts/birthdayList/BirthdayListWebPart.manifest.json",
+      "outputPath": "./dist/birthday-list-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "BirthdayListWebPartStrings": "webparts/birthdayList/loc/{locale}.js"
+  }
+}

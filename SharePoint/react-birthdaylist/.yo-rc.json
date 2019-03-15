@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem",
+    "version": "1.7.1",
+    "libraryName": "react-birthdaylist",
+    "libraryId": "6bf16621-ea7d-4b73-bedc-58461e5d8df6",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
