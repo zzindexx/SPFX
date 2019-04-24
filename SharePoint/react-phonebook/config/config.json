@@ -8,18 +8,18 @@
   ],
   "externals": {
     "sp-init": {
-      "path": "https://extranet.kidani.club/_layouts/15/init.js",
+      "path": "https://mysite/_layouts/15/init.js",
       "globalName": "$_global_init"
     },
     "microsoft-ajax": {
-      "path": "https://extranet.kidani.club/_layouts/15/MicrosoftAjax.js",
+      "path": "https://mysite/_layouts/15/MicrosoftAjax.js",
       "globalName": "Sys",
       "globalDependencies": [
         "sp-init"
       ]
     },
     "sp-runtime": {
-      "path": "https://extranet.kidani.club/_layouts/15/SP.Runtime.js",
+      "path": "https://mysite/_layouts/15/SP.Runtime.js",
       "globalName": "SP",
       "globalDependencies": [
         "microsoft-ajax"
