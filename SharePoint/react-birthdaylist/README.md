@@ -17,7 +17,7 @@ You can specify additional query to filter birthday list. For example, you can c
 
 #### Display type
 The web part can show list for today, current week and current month.
-![displaytypes](https://github.com/zzindexx/SPFX/blob/master/SharePoint/react-birthdaylist/assets/displaytypes.gif)
+![displaytypes](https://github.com/zzindexx/SPFX/blob/master/SharePoint/react-birthdaylist/assets/displaytype.gif)
 
 
 ### Building the code
